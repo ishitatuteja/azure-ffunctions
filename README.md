@@ -1,1 +1,1 @@
-# azure-ffunctions
+# azure-functions
